@@ -46,6 +46,7 @@
 *.mod*
 *.cmd
 */Temp
+*/obj
 .tmp_versions/
 modules.order
 Module.symvers
